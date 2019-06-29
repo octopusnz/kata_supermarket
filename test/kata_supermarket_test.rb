@@ -1,11 +1,9 @@
-require "test_helper"
+# frozen_string_literal: true
 
-class KataSupermarketTest < Minitest::Test
-  def test_that_it_has_a_version_number
-    refute_nil ::KataSupermarket::VERSION
-  end
+require 'test_helper'
 
-  def test_it_does_something_useful
-    assert false
+describe Supermarket do
+  before do
+    @supermarket = Supermarket.new
   end
 end

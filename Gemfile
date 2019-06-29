@@ -1,4 +1,9 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-# Specify your gem's dependencies in kata_supermarket.gemspec
-gemspec
+source 'https://rubygems.org'
+
+group :test do
+  gem 'minitest'
+  gem 'reek'
+  gem 'rubocop'
+end

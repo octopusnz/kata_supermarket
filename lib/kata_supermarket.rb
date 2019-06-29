@@ -1,6 +1,4 @@
-require "kata_supermarket/version"
+# frozen_string_literal: true
 
-module KataSupermarket
-  class Error < StandardError; end
-  # Your code goes here...
+class Supermarket
 end

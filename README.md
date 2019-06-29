@@ -1,24 +1,33 @@
-# KataSupermarket
+# The Supermarket Kata.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/kata_supermarket`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is an exercise to help learn and improve Ruby.
 
-TODO: Delete this and the text above, and describe your gem
+The below are the requirements for the project:
+
+1. Store the name and price of at least 10 common supermarket items
+2. Allow additional items to be added 
+3. Allow existing items to be updated or removed
+4. Output the price of an item
+5. Output the total price of an order (containing multiple items)
+6. Cater for the following pricing scenarios:
+
+	a. An item has a specific price
+	b. An item has a different price when purchased in quantities of >=x
+	c. An item has a different price when purchased in conjunction with another item
+	d. A customer will receive a fixed price discount when spending >=$y
+
+Examples of other scenarios to handle:
+
+1. No items exist
+2. Items contain special characters
+3. Minimum and maximum length of item names, quantities and prices
+4. Stock levels
+5. Configuring variables such as discounts
+
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'kata_supermarket'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install kata_supermarket
+TODO: Write usage instructions here
 
 ## Usage
 
@@ -26,14 +35,12 @@ TODO: Write usage instructions here
 
 ## Development
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+TODO: Write usage instructions here
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/kata_supermarket.
+Bug reports and pull requests are welcome on GitHub at https://github.com/OctopusNZ/kata_supermarket.
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This code is available as open source under the terms of the MIT License(https://opensource.org/licenses/MIT).

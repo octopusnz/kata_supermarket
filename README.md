@@ -1,8 +1,8 @@
 # The Supermarket Kata.
 
-This is an exercise to help learn and improve Ruby.
+This is an exercise to help learn and improve my knowledge of Ruby development.
 
-The below are the requirements for the project:
+We have some requirements:
 
 1. Store the name and price of at least 10 common supermarket items
 2. Allow additional items to be added 
@@ -11,10 +11,10 @@ The below are the requirements for the project:
 5. Output the total price of an order (containing multiple items)
 6. Cater for the following pricing scenarios:
 
-	a. An item has a specific price
-	b. An item has a different price when purchased in quantities of >=x
-	c. An item has a different price when purchased in conjunction with another item
-	d. A customer will receive a fixed price discount when spending >=$y
+	- An item has a specific price
+	- An item has a different price when purchased in quantities of >=x
+	- An item has a different price when purchased in conjunction with another item
+	- A customer will receive a fixed price discount when spending >=$y
 
 Examples of other scenarios to handle:
 

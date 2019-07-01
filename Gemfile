@@ -5,6 +5,7 @@ ruby '~> 2.3'
 
 group :test do
   gem 'minitest'
+  gem 'rake'
   gem 'reek'
   gem 'rubocop'
 end

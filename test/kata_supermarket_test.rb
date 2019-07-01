@@ -2,8 +2,13 @@
 
 require 'test_helper'
 
-describe Supermarket do
-  before do
-    @supermarket = Supermarket.new
+class SupermarketTest < Minitest::Test
+  def setup
+    @report = Supermarket.new('banana', 'lemon')
+  end
+  
+  def test_does_it_have_value
+   @report
+   expect (@report).wont_be nil
   end
 end

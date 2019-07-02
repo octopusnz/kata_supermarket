@@ -9,5 +9,7 @@
 #
 # See https://github.com/rubocop-hq/rubocop/blob/master/manual/configuration.md
 
+require: rubocop-performance
+
 Style/EmptyMethod:
   EnforcedStyle: expanded

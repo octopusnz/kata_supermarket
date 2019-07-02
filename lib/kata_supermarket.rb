@@ -23,6 +23,9 @@ class ShoppingCart
     @items = hash.new
     @promocalc = promocalc
   end
+
+  def items_in_cart
+  end
 end
 
 apple = Groceries.new

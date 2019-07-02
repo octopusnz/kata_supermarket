@@ -8,4 +8,5 @@ group :test do
   gem 'rake'
   gem 'reek'
   gem 'rubocop'
+  gem 'rubocop-performance'
 end

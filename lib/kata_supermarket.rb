@@ -10,7 +10,7 @@ class Groceries
     @promopair = promopair
   end
 
-  def storediscount(stock, promopair)
+  def store_discount
   end
 end
 

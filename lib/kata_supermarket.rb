@@ -1,5 +1,29 @@
 # frozen_string_literal: true
 
+class Supermarket
+
+  def initialize (stock)
+    @stock= [a,b,c]
+  end
+  
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
 # Groceries are the items in the supermarket
 class Groceries
   attr_accessor :price, :stock, :promopair
@@ -47,3 +71,4 @@ banana = Groceries.new
 banana.price = 6.0
 banana.stock = 12
 banana.promopair = 'fruit'
+=end  

@@ -19,7 +19,7 @@ Examples of other scenarios to handle:
 
  - No items exist
  - Items contain special characters
- -  Minimum and maximum length of item names, quantities and prices
+ - Minimum and maximum length of item names, quantities and prices
  - Stock levels
  - Configuring variables such as discounts
 
@@ -38,8 +38,8 @@ Bundled with Bundler v2.x. You may need to 'gem install bundler' if you ain't al
 See the Bundler 2 upgrade page: https://bundler.io/v2.0/guides/bundler_2_upgrade.html
 
 Some style choices have been made and are tweaked in the .rubocop.yml contained in the project.
-- 'Expanded' Empty Method style 
-			https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
+- 'Expanded' Empty Method style: 
+https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
 
 ## Contributing
 
@@ -48,4 +48,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Octopu
 ## License
 
 This code is available as open source under the terms of the MIT License:
-	https://opensource.org/licenses/MIT
+https://opensource.org/licenses/MIT

@@ -17,11 +17,11 @@ We have some requirements:
 
 Examples of other scenarios to handle:
 
-1. No items exist
-2. Items contain special characters
-3. Minimum and maximum length of item names, quantities and prices
-4. Stock levels
-5. Configuring variables such as discounts
+ - No items exist
+ - Items contain special characters
+ -  Minimum and maximum length of item names, quantities and prices
+ - Stock levels
+ - Configuring variables such as discounts
 
 
 ## Installation
@@ -38,7 +38,7 @@ Bundled with Bundler v2.x. You may need to 'gem install bundler' if you ain't al
 See the Bundler 2 upgrade page: https://bundler.io/v2.0/guides/bundler_2_upgrade.html
 
 Some style choices have been made and are tweaked in the .rubocop.yml contained in the project.
-	- 'Expanded' Empty Method style 
+- 'Expanded' Empty Method style 
 			https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
 
 ## Contributing

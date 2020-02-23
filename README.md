@@ -39,12 +39,13 @@ See the Bundler 2 upgrade page: https://bundler.io/v2.0/guides/bundler_2_upgrade
 
 Some style choices have been made and are tweaked in the .rubocop.yml contained in the project.
 	- 'Expanded' Empty Method style 
-		https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
+			https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/OctopusNZ/kata_supermarket.
+Bug reports and pull requests are welcome on GitHub at https://github.com/OctopusNZ/kata_supermarket
 
 ## License
 
-This code is available as open source under the terms of the MIT License(https://opensource.org/licenses/MIT).
+This code is available as open source under the terms of the MIT License:
+	https://opensource.org/licenses/MIT

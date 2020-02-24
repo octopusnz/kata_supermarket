@@ -37,9 +37,17 @@ TODO: Write usage instructions here
 Bundled with Bundler v2.x. You may need to 'gem install bundler' if you ain't already upgraded.
 See the Bundler 2 upgrade page: https://bundler.io/v2.0/guides/bundler_2_upgrade.html
 
+Change or update the .ruby-version file and the Ruby version specificed in the Gemfile as needed. 2.5.7+ stable versions of Ruby are anticipated.
+
 Some style choices have been made and are tweaked in the .rubocop.yml contained in the project.
 - 'Expanded' Empty Method style: 
 https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
+- HashEachMethods Cop Enabled
+https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashEachMethods
+- HashTransformKeys Cop Enabled
+https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashTransformKeys
+- HashTransformValues Cop Enabled
+https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashTransformValues
 
 ## Contributing
 

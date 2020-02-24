@@ -51,7 +51,8 @@ https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashTransformValues
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/OctopusNZ/kata_supermarket
+Bug reports and pull requests are welcome on GitHub: 
+https://github.com/OctopusNZ/kata_supermarket
 
 ## License
 

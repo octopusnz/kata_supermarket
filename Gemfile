@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '>= 2.5.7'
+ruby '>= 2.5.0'
 
-group :test do
+group :development do
   gem 'minitest'
   gem 'rake'
   gem 'reek'

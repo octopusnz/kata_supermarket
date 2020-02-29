@@ -5,7 +5,7 @@ ruby '>= 2.5.0'
 
 group :development do
   gem 'minitest'
-  gem 'rake'
+  gem 'rake', '>=12.3.3'
   gem 'reek'
   gem 'rspec'
   gem 'rubocop'

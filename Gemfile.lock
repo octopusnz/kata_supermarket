@@ -19,7 +19,7 @@ GEM
     kwalify (0.7.2)
     minitest (5.14.0)
     parallel (1.19.1)
-    parser (2.7.0.3)
+    parser (2.7.0.4)
       ast (~> 2.4.0)
     psych (3.1.0)
     rainbow (3.0.0)

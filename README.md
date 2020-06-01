@@ -34,20 +34,14 @@ TODO: Write usage instructions here
 
 ## Development
 
-Bundled with Bundler v2.x. You may need to 'gem install bundler' if you ain't already upgraded.
+Bundled with Bundler v2.x. You may need to 'gem install bundler' if you have not already upgraded.
 See the Bundler 2 upgrade page: https://bundler.io/v2.0/guides/bundler_2_upgrade.html
 
-Check the Ruby version specificed in the Gemfile versus your system Ruby. 2.5.0+ stable versions of Ruby are anticipated.
-
 Some style choices have been made and are tweaked in the .rubocop.yml contained in the project.
-- 'Expanded' Empty Method style: 
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/EmptyMethod
-- HashEachMethods Cop Enabled
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashEachMethods
-- HashTransformKeys Cop Enabled
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashTransformKeys
-- HashTransformValues Cop Enabled
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/HashTransformValues
+
+Some links:
+
+  -	https://stackoverflow.com/questions/61720266/creating-multiple-instances-of-a-class-most-idiomatic
 
 ## Contributing
 
@@ -58,3 +52,4 @@ https://github.com/OctopusNZ/kata_supermarket
 
 This code is available as open source under the terms of the MIT License:
 https://opensource.org/licenses/MIT
+See the LICENSE.txt file in the project

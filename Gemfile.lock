@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.1)
-    diff-lcs (1.4.3)
+    diff-lcs (1.4.4)
     kwalify (0.7.2)
     parallel (1.19.2)
     parser (2.7.1.4)

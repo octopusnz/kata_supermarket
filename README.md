@@ -12,7 +12,8 @@ We have some requirements:
 
     - An item has a specific price
 	- An item has a different price when purchased in quantities of >=x
-	- An item has a different price when purchased in conjunction with another item
+	- An item has a different price when purchased in conjunction with another 
+	  item
 	- A customer will receive a fixed price discount when spending >=$y
 
 Examples of other scenarios to handle:

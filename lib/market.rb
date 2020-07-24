@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require_relative './market/inventory.rb'
-require_relative './market/shelves.rb'
+require_relative './market/inventory'
+require_relative './market/shelves'
 
 # The Market is a class!
 class Market

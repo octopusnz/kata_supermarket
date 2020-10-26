@@ -1,6 +1,7 @@
 /.bundle/
 /.yardoc
 /_yardoc/
+/build/
 /coverage/
 /doc/
 /pkg/
@@ -10,6 +11,9 @@
 .DS_Store
 .Trash
 .ruby-version
+*.d
 *.lock
+*.o
+*.out
 *.sublime-project
 *.sublime-workspace
